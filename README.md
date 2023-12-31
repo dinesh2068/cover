@@ -135,7 +135,7 @@ cover.html
             </div>
 
             <div class="mypic">
-                <img src="./images/Dineshkarthik N      212223220021.jpg" width="80" height="100" >
+                <img src="./images/author.jpg" width="80" height="100" >
             </div>
             <div class="id">
                 <hr style="color:rgb(0, 0, 0)">
@@ -157,7 +157,7 @@ cover.html
 
 
 ## OUTPUT:
-![output](<Screenshot 2023-12-31 184232.png>)
+![Screenshot 2023-12-31 184232](https://github.com/dinesh2068/cover/assets/151390189/e8bedbd9-cb54-409a-96d0-b63be4317ba8)
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
